@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 #   Exemplo de Identação
 #   Esse programa serve para avaliar se um aluno foi aprovado ou não com base em sua média.
 
