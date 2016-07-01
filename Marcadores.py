@@ -15,5 +15,5 @@ print ("algo %s isso" %c)
 
 #   %d = Decimal    %s = String     %f = Float
 #   Marcadores sempre são seguidos da variável.
-#   Ex: Se usar o marcador %d para especificar um número na variavél x
+#   Ex: Se usar o marcador %d para especificar um número na variável x
 #   ele deve ser seguido de %x 
